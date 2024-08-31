@@ -1,2 +1,2 @@
-# spacers-core
-package for spacers/framework
+# spacers-webapp
+demo web app php
