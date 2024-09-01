@@ -1,0 +1,28 @@
+{
+  "name": "spacers/skeleton",
+  "description": "skeleton application web for php",
+  "type": "project",
+  "repositories": [
+    {
+      "type": "path",
+      "url": "/home/artur/works/spacers/spacers-framework"
+    }
+  ],
+  "require": {
+    "spacers/framework": "dev-dev"
+  },
+  "require-dev": {},
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Artur",
+      "email": "artur.ddwebproject@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable"
+}

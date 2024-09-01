@@ -1,0 +1,55 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "8b11e1e8452c8bc3c7484c8d2bda71b5",
+    "packages": [
+        {
+            "name": "spacers/framework",
+            "version": "dev-dev",
+            "dist": {
+                "type": "path",
+                "url": "/home/artur/works/spacers/spacers-framework",
+                "reference": "7b1039643efd5dce2821fe5ad7fb8025652bfda0"
+            },
+            "require": {
+                "php": ">=8.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Spacers\\Framework\\": "src/"
+                },
+                "files": [
+                    "src/helpers.php"
+                ]
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Artur",
+                    "email": "artur.ddwebproject@gmail.com"
+                }
+            ],
+            "description": "Web framework for PHP",
+            "transport-options": {
+                "relative": false
+            }
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "spacers/framework": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.6.0"
+}
