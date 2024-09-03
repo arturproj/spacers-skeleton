@@ -2,7 +2,7 @@
   "name": "spacers/skeleton",
   "description": "skeleton application web for php",
   "type": "project",
-  "repositories": [
+  "repositories": [    
     {
       "type": "path",
       "url": "/home/artur/works/spacers/spacers-framework"
