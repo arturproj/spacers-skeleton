@@ -2,16 +2,9 @@
   "name": "spacers/skeleton",
   "description": "skeleton application web for php",
   "type": "project",
-  "repositories": [    
-    {
-      "type": "path",
-      "url": "/home/artur/works/spacers/spacers-framework"
-    }
-  ],
   "require": {
-    "spacers/framework": "dev-dev"
+    "spacers/framework": "v1.1.0"
   },
-  "require-dev": {},
   "license": "MIT",
   "autoload": {
     "psr-4": {
@@ -24,5 +17,8 @@
       "email": "artur.ddwebproject@gmail.com"
     }
   ],
-  "minimum-stability": "stable"
+  "minimum-stability": "stable",
+  "require-dev": {
+    "symfony/var-dumper": "^6.4"
+  }
 }
