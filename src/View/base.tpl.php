@@ -4,7 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hello word</title>
+    <title><?= $title ?? "Spacers Framework " . \Composer\InstalledVersions::getPrettyVersion('spacers/framework') ?>
+    </title>
     <style>
         body {
             display: block;
@@ -16,7 +17,7 @@
 </head>
 
 <body>
-    Hello word
+    <?php include $template; ?>
 </body>
 
 </html>

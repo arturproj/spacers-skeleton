@@ -3,7 +3,7 @@
   "description": "skeleton application web for php",
   "type": "project",
   "require": {
-    "spacers/framework": "v1.1.0"
+    "spacers/framework": "v1.1.2"
   },
   "license": "MIT",
   "autoload": {
