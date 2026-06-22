@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e7fbad5c0ec57b09be6ff8af3bd355e8",
+    "content-hash": "4c9b10e48423cafa47bbfaa3d545e153",
     "packages": [
         {
             "name": "spacers/framework",
-            "version": "v1.1.0",
+            "version": "v1.1.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/arturproj/spacers-framework.git",
-                "reference": "5a133ff7a781070ab9828da4248125006f66a22b"
+                "reference": "768914a15ab1389f7cba48c6ad4251a76160c40a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/arturproj/spacers-framework/zipball/5a133ff7a781070ab9828da4248125006f66a22b",
-                "reference": "5a133ff7a781070ab9828da4248125006f66a22b",
+                "url": "https://api.github.com/repos/arturproj/spacers-framework/zipball/768914a15ab1389f7cba48c6ad4251a76160c40a",
+                "reference": "768914a15ab1389f7cba48c6ad4251a76160c40a",
                 "shasum": ""
             },
             "require": {
@@ -48,9 +48,9 @@
             "description": "Web framework for PHP",
             "support": {
                 "issues": "https://github.com/arturproj/spacers-framework/issues",
-                "source": "https://github.com/arturproj/spacers-framework/tree/v1.1.0"
+                "source": "https://github.com/arturproj/spacers-framework/tree/v1.1.2"
             },
-            "time": "2026-06-19T08:27:36+00:00"
+            "time": "2026-06-22T10:51:18+00:00"
         }
     ],
     "packages-dev": [
